@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.7/21734c0092a5d3c3ec99510e50c1ff76bdf0c65a/rxjava-2.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21734c0092a5d3c3ec99510e50c1ff76bdf0c65a">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/rxjava-2.0.7_8f4432108e1ab7c866b1cb44151426b3e20a1f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/okio-1.11.0_937777ce54566047555099595c1de687ff14a3ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/gson-2.7_1cc40f2b990d68a40f735aef689e254674e41c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/retrofit2-rxjava2-adapter-1.0.0_01156fe760023f0c9eecf4bdf12c5f7c44bf76d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_9a64634ab5870d64f5e2b946f023e6ed56d828cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_614aea9960c63492d6cd0e9d3cce3678b7f6187f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_3bd7ce9cd6aeb2c284331aaf3569c3d1e26d83b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.android/build-cache/56b01729d965e5b4dc73199364a0f63c30315cc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/classes_eb9b9ed0a4e13578631a15e997ce5d554af9b125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxrelay2/rxrelay/2.0.0/2ed3d43181bb62afb00f675d17f3e6c2ffadd889/rxrelay-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ed3d43181bb62afb00f675d17f3e6c2ffadd889">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/rxrelay-2.0.0_4baceb155586f3f1ee6dbd1a2804d62a17d587a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_1aa3230422307e6bc188c5c4bb73cee3b6456531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.android/build-cache/a379c66816034e8a56eeb15750a8285819161c0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/classes_35d8745abbccfce5a25ac259742107dbda756398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.android/build-cache/fbbf02e4c318fb972a46696656e0fd68f1a57e88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/classes_bb97adcb7ed81f360f235abcef2bc10a51a0471a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0c1ce643be525c735831611cf980f1ffa2341fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/.android/build-cache/e99fe16a11e17f773d909e3f6dae7ce97727705c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/classes_d0b428967e452c9df1ef4174d85957b74c1464be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nehal/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/nehal/AndroidStudioProjects/WikiParsing/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_57c590ac758d615209a6f1c96cadd0d5476c5102.jar" />
+    </item>
+
+</items>
